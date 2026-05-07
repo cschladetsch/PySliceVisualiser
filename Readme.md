@@ -4,6 +4,10 @@ Interactive visualizer for Python slice expressions `q[start:stop:step]`.
 
 Built to make negative indices and reverse steps intuitive. No server, no dependencies, no build step.
 
+## Demo
+
+![demo](resources/demo1.jpg)
+
 ## Usage
 
 Open `slice_viz.html` in a browser.
